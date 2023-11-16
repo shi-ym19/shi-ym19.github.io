@@ -14,4 +14,4 @@ I'm a senior undergraduate student currently studying in the Department of Indus
 
 Contact Me
 ======
-\textbf{Email:} shi-ym19@mails.tsinghua.edu.cn
+**Email:** shi-ym19@mails.tsinghua.edu.cn

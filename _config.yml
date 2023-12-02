@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NO.11 HOMEPAGE"
+title                    : "No.11 Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

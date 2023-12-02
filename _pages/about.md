@@ -14,7 +14,7 @@ I'm a senior undergraduate student currently studying in the Department of Indus
 
 I'm an ESFJ with strong J (Judgement) according to Myers–Briggs Type Indicator (MBTI). 
 
-**Note:** Because the Chinese pronunciation of my name is the same as the number eleven, I named my Personal Website "No.11 Homepage."
+**Note:** Because the Chinese pronunciation of my name is the same as the number eleven, I named my Personal Website "No.11 Homepage".
 
 Contact Me
 ======

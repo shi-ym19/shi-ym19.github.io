@@ -19,10 +19,13 @@ redirect_from:
 * 11/2022 - 02/2023, Student Researcher, Iowa State University
   * Research Advisor: [Dr. Chong Wang](https://faculty.sites.iastate.edu/chwang/)
 * 05/2023 - Now, Summer Intern, Yale University
-  * Research Advisor: [Dr. Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/)
+  * Supervisor: [Dr. Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## Notable Facts
+
+* I switched my major from Hydraulic Engineering to Industrial Engineering in 2021, which extended my undergraduate studies by one year.
+* I love observing ants on the ground since my childhood. This is my main source of joy when I was a child.
+* I really like history and geography. I spent a lot of time looking at maps of China and the world. This is another main source of joy when I was a child.
 
 ## Markdown guide
 

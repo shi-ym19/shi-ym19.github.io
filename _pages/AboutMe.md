@@ -11,16 +11,15 @@ redirect_from:
 
 * B.E. (Expected, 06/2024), Department of Industrial Engineering, Tsinghua University
 * Minor in Statistics (2021-Now), Certer for Statistical Science, Tsinghua University
-* Major in Hydraulic Engineering (2019-2021), Department of Hydraulic Engineering, Tsinghua University
 
-## Tips and hints
+## Research Experience
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* 10/2022 - 10/2023, Students Researcher, Tsinghua University
+  * Research Advisor: [Dr. Chen Zhang](http://www.ie.tsinghua.edu.cn/zhangchen)
+* 11/2022 - 02/2023, Student Researcher, Iowa State University
+  * Research Advisor: [Dr. Chong Wang](https://faculty.sites.iastate.edu/chwang/)
+* 05/2023 - Now, Summer Intern, Yale University
+  * Research Advisor: [Dr. Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/)
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)

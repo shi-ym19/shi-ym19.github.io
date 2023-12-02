@@ -15,11 +15,11 @@ redirect_from:
 ## Research Experience
 
 * 10/2022 - 10/2023, Students Researcher, Tsinghua University
-  * Research Advisor: [Dr. Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm){: .no-underline }
+  * Research Advisor: [Dr. Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm)
 * 11/2022 - 02/2023, Student Researcher, Iowa State University
-  * Research Advisor: [Dr. Chong Wang](https://faculty.sites.iastate.edu/chwang/){: .no-underline }
+  * Research Advisor: [Dr. Chong Wang](https://faculty.sites.iastate.edu/chwang/)
 * 05/2023 - Now, Summer Intern, Yale University
-  * Supervisor: [Dr. Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/){: .no-underline }
+  * Supervisor: [Dr. Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/)
 
 ## Notable Facts
 

@@ -7,22 +7,40 @@ redirect_from:
   - /Courses.html
 ---
 
-## Education
+## Mathematics
 
-* B.E. (Expected, 06/2024), Department of Industrial Engineering, Tsinghua University
-* Minor in Statistics (2021-Now), Certer for Statistical Science, Tsinghua University
+* Calculas A(1) & A(2)
+* Linear Algebra
+* Real Analysis
 
-## Research Experience
+## Statistics
 
-* 10/2022 - 10/2023, Students Researcher, Tsinghua University
-  * Research Advisor: [Dr. Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm)
-* 11/2022 - 02/2023, Student Researcher, Iowa State University
-  * Research Advisor: [Dr. Chong Wang](https://faculty.sites.iastate.edu/chwang/)
-* 05/2023 - Now, Summer Intern, Yale University
-  * Supervisor: [Dr. Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/)
+* Probability and Statistics
+* Elementary Probability Theory
+* Statistical Inference
+* Linear Regression Analysis
+* Multivariate Statistical Analysis
+* Statistics (attended in Peking University)
+* Applied Statistics and Data Analytics
+* Logistic Regression
+* Experimental Design
+* Introduction to Bayesian Statistics
+* Introduction to Biostatistics
+* Introduction to Causal Inference
+* Introduction to Nonparametric Statistics
 
-## Notable Facts
+## Programming and Software
 
-* I switched my major from Hydraulic Engineering to Industrial Engineering in 2021, which extended my undergraduate studies by one year.
-* I love observing ants on the ground since my childhood. This is my main source of joy when I was a child.
-* I really like history and geography. I spent a lot of time looking at maps of China and the world. This is another main source of joy when I was a child.
+* Programming Fundamentals (used C)
+* The Practice of Computer Programming (used Python)
+* Database
+* Data Structure and Algorithm Analysis
+* Statistical Computing and Software
+* Modeling and Simulation
+* Machine Learning and Big-data
+
+## Technical Skills
+
+* Proficient with R, Python, C
+* Experience with Matlab, Java and SQL
+* Experience with Pytorch and Tensorflow for machine learning

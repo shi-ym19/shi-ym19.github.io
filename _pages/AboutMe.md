@@ -1,26 +1,17 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Education
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* B.E. (Expected, 06/2024), Department of Industrial Engineering, Tsinghua University
+* Minor in Statistics (2021-Now), Certer for Statistical Science, Tsinghua University
+* Major in Hydraulic Engineering (2019-2021), Department of Hydraulic Engineering, Tsinghua University
 
 ## Tips and hints
 

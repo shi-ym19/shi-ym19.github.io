@@ -20,3 +20,9 @@ redirect_from:
   * Research Advisor: [Dr. Chong Wang](https://faculty.sites.iastate.edu/chwang/)
 * 05/2023 - Now, Summer Intern, Yale University
   * Supervisor: [Dr. Hongyu Zhao](https://ysph.yale.edu/profile/hongyu-zhao/)
+
+## Notable Facts
+
+* I switched my major from Hydraulic Engineering to Industrial Engineering in 2021, which extended my undergraduate studies by one year.
+* I love observing ants on the ground since my childhood. This is my main source of joy when I was a child.
+* I really like history and geography. I spent a lot of time looking at maps of China and the world. This is another main source of joy when I was a child.

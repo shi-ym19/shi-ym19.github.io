@@ -83,7 +83,7 @@ author:
   name             : "Yiming Shi"
   avatar           : "profile.png"
   bio              : "IE, Tsinghua University"
-  location         : "Location"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "2627548103@qq.com"
+  orcid            : #"2627548103@qq.com"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

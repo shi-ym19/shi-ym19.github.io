@@ -12,8 +12,6 @@ Welcome to the personal website of Yiming Shi (石一鸣)！
 
 I'm a senior undergraduate student currently studying in the Department of Industrial Engineering at Tsinghua University. My research interst includes statistics and its application in deifferent fileds, especially biostatistics, statistical genetics, functional data analysis, etc.
 
-<br><br>
-
 Contact Me
 ======
 **Email:** shi-ym19@mails.tsinghua.edu.cn
